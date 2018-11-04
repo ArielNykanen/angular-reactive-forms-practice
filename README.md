@@ -1,4 +1,7 @@
-# MyFirstApp
+# Angular Reactive Form Practice
+ *validators
+ *custom validators
+ *async validator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
